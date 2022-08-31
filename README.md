@@ -1,4 +1,5 @@
 # Reactivities
+```
 dotnet new sln - for new solution file.
 dotnet new webapi -n API - for new webapi project in folder
 dotnet new classlib -n Application - For new class library 
@@ -21,3 +22,4 @@ git add . - to add into stage
 git branch -M main - After commit. create new branch called main
 git remote add origin https://github.com/DoYourDuty/Reactivities.git - Add remote location
 git push -u origin main - push to github repo the main branch
+```
