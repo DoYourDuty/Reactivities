@@ -17,3 +17,6 @@ git status - For get the git status of current repo
 git init - to initiate the git 
 dotnet new gitignore - for create ignore file
 git add . - to add into stage
+git branch -M main - After commit. create new branch called main
+git remote add origin https://github.com/DoYourDuty/Reactivities.git - Add remote location
+git push -u origin main - push to github repo the main branch
